@@ -6,6 +6,15 @@
         "name_fuel": "Diesel"
     },
     {
+        "name_fuel": "Bio-Diesel"
+    },
+    {
+        "name_fuel": "Ethanol"
+    },
+    {
+        "name_fuel": "CNG"
+    },
+    {
         "name_fuel": "BEV"
     },
     {
