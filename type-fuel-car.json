@@ -6,21 +6,21 @@
         "name_fuel": "Diesel"
     },
     {
-        "name_fuel": "BEV (Battery Electric Vehicle)"
+        "name_fuel": "BEV"
     },
     {
-        "name_fuel": "E-REV (Range Extender Vehicle)"
+        "name_fuel": "E-REV"
     },
     {
-        "name_fuel": "PHEV (Plug-in Hybrid Electric Vehicle)"
+        "name_fuel": "PHEV"
     },
     {
-        "name_fuel": "MHEV (Mild Hybrid Electric Vehicle)"
+        "name_fuel": "MHEV"
     },
     {
-        "name_fuel": "FCEV (Fuel Cell Vehicle)"
+        "name_fuel": "FCEV"
     },
     {
-        "name_fuel": "HICEV (Hydrogen Internal Combustion Engine Vehicle)"
+        "name_fuel": "HICEV"
     }
 ]
